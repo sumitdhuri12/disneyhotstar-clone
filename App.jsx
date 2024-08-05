@@ -1,4 +1,3 @@
-import './App.css'
 import Header from './src/Components/Header'
 import Slider from './src/Components/Slider'
 import ProductionHouse from './src/Components/ProductionHouse'
